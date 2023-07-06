@@ -1,0 +1,59 @@
+body{
+    background: cover;
+    background-position: center;
+    
+}
+#heading{
+    width:99%;
+    height:10%;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    box-shadow: 7px 5px 7px pink;
+    border-radius: 20px;
+}
+#Piano{
+    font-size: 40px;
+    border-radius: 30px;
+    width:20%;
+    box-shadow: 5px 5px 5px pink;
+    color:rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#Chair{
+    font-size: 40px;
+    border-radius: 30px;
+    width:20%;
+    box-shadow: 5px 5px 5px pink;
+    color:rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#Bed{
+    font-size: 40px;
+    border-radius: 30px;
+    width:20%;
+    box-shadow: 5px 5px 5px pink;
+    color:rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#Clock{
+    font-size: 40px;
+    border-radius: 30px;
+    width:20%;
+    box-shadow: 5px 5px 5px pink;
+    color:rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#Shoes{
+    font-size: 40px;
+    border-radius: 30px;
+    width:20%;
+    box-shadow: 5px 5px 5px pink;
+    color:rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}

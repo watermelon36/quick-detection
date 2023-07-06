@@ -1,0 +1,13 @@
+#status, #detect{
+    box-shadow:5px 5px 5px pink;
+    padding-inline: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    margin-inline: 10px;
+}
+canvas{
+    margin-inline: 5px;
+    padding-inline: 10px;
+    box-shadow: 10px 10px 10px pink;
+
+}
